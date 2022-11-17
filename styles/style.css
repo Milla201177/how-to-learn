@@ -73,13 +73,6 @@
   z-index: -1;
 }
 
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
-
 .two-columns {
   margin: 100px auto 0;
   display: flex;
@@ -232,9 +225,9 @@
   top: 50%;
   right: 48px;
 }
-
 .table__cell_theme_dark {
   width: 200px;
+  color: white;
   margin: 80px auto 0;
 }
 
