@@ -1,0 +1,10 @@
+@keyframes  to-transparent{
+  to {
+    opacity: 0.5;
+  }
+}
+
+.animation__opacity:hover {
+  animation: to-transparent linear 3s forwards;
+  transition: opacity 4s;
+}
