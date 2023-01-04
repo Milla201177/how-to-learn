@@ -2,10 +2,10 @@
 
 @import url(../blocks/page/page.css);
 
-@import url(../blocks/section/__paragraph/section__paragraph.css);
-@import url(../blocks/section/__span-accent/section__span-accent.css);
-@import url(../blocks/section/__title/section__title.css);
-@import url(../blocks/section/__subtitle/section__subtitle.css);
+@import url(../blocks/section-paragraph/section-paragraph.css);
+@import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__link/header__link.css);
