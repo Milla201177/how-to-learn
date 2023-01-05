@@ -1,10 +1,10 @@
-.section-paragraph{
+.two-columns__paragraph{
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
   margin: 0;
 }
 
-.section-paragraph:not(:last-child) {
+.two-columns__paragraph:not(:last-child) {
   margin-bottom: 30px;
 }
